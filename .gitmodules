@@ -1,6 +1,3 @@
-[submodule "Api"]
-	path = proyecto_final_prog2.Api
-	url = ../proyecto_final_prog2.Api.git
 [submodule "proyecto_final_prog2.Api"]
 	path = proyecto_final_prog2.Api
 	url = git://github.com/ITSMijaiL/proyecto_final_prog2.Api
