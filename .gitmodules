@@ -1,18 +1,18 @@
 [submodule "proyecto_final_prog2.Api"]
 	path = proyecto_final_prog2.Api
-	url = git://github.com/ITSMijaiL/proyecto_final_prog2.Api
+	url = git@github.com:ITSMijaiL/proyecto_final_prog2.Api
 [submodule "proyecto_final_prog2.Web"]
 	path = proyecto_final_prog2.Web
-	url = git://github.com/ITSMijaiL/proyecto_final_prog2.Web
+	url = git@github.com:ITSMijaiL/proyecto_final_prog2.Web
 [submodule "proyecto_final_prog2.Domain"]
 	path = proyecto_final_prog2.Domain
-	url = git://github.com/ITSMijaiL/proyecto_final_prog2.Domain
+	url = git@github.com:ITSMijaiL/proyecto_final_prog2.Domain
 [submodule "proyecto_final_prog2.Infrastructure"]
 	path = proyecto_final_prog2.Infrastructure
-	url = git://github.com/ITSMijaiL/proyecto_final_prog2.Infrastructure
+	url = git@github.com:ITSMijaiL/proyecto_final_prog2.Infrastructure
 [submodule "proyecto_final_prog2.Application"]
 	path = proyecto_final_prog2.Application
-	url = git://github.com/ITSMijaiL/proyecto_final_prog2.Application
+	url = git@github.com:ITSMijaiL/proyecto_final_prog2.Application
 [submodule "proyecto_final_prog2.IOC"]
 	path = proyecto_final_prog2.IOC
-	url = git://github.com/ITSMijaiL/proyecto_final_prog2.IOC
+	url = git@github.com:ITSMijaiL/proyecto_final_prog2.IOC
